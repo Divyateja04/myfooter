@@ -108,3 +108,17 @@
 #myFooter .fa-behance-square:focus{
     color:#1769ff;
 }
+
+#myFooter .fa-snapchat:hover{
+    color:#fffc00;
+}
+#myFooter .fa-snapchat:focus{
+    color:#fffc00;
+}
+
+#myFooter .fa-youtube:hover{
+    color:#ff0000;
+}
+#myFooter .fa-youtube:focus{
+    color:#ff0000;
+}
