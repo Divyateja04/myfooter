@@ -6,8 +6,16 @@ This is made with love
 
 You can use this directly by including the cdn given in your header and copying the html content
 
-##CDN
+## CDN
+In Real Production
+```
+https://cdn.rawgit.com/Divyateja04/myfooter/master/Footer-white.css 
+```
 
+If project still under development
+```
+https://rawgit.com/Divyateja04/myfooter/master/Footer-white.css
+```
 
 ## Authors
 
