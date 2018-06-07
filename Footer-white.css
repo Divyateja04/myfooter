@@ -41,7 +41,7 @@
     background-color: transparent;
 }
 
-#myFooter .fa{
+#myFooter .fa,.fab,.fas{
     margin-right: 15px;
     margin-left: 20px;
     background-color: white;
