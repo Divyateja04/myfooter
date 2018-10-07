@@ -1,47 +1,47 @@
-.myfooter{
+#myfooter{
     padding-top:32px;
     background-color: white;
 }
 
-.myfooter .container{
+#myfooter .container{
     text-align: center;
 }
 
-.myfooter .footer-copyright{
+#myfooter .footer-copyright{
     margin-bottom: 35px;
     text-align: center;
 }
-.myfooter ul{
+#myfooter ul{
     list-style-type: none;
     padding: 0;
     margin-bottom: 18px;
 }
 
-.myfooter a{
+#myfooter a{
     color: #282b2d;
     font-size: 18px;
 }
 
-.myfooter li{
+#myfooter li{
     display: inline-block;
     margin: 0px 15px;
     line-height: 2;
 }
 
-.myfooter .footer-social{
+#myfooter .footer-social{
     text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
     background-color: #eee;
 }
-.myfooter .footer-social-transparent{
+#myfooter .footer-social-transparent{
     text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
     background-color: transparent;
 }
 
-.myfooter .fa,.fab,.fas{
+#myfooter .fa,.fab,.fas{
     margin-right: 15px;
     margin-left: 20px;
     background-color: white;
@@ -56,69 +56,69 @@
     transition:color 0.2s;
 }
 
-.myfooter .fa-facebook:hover{
+#myfooter .fa-facebook:hover{
    color: #3b5998;
 }
-.myfooter .fa-facebook:focus{
+#myfooter .fa-facebook:focus{
     color: #3b5998; 
 }
 
-.myfooter .fa-google-plus:hover{
+#myfooter .fa-google-plus:hover{
     color:red;
 }
-.myfooter .fa-google-plus:focus{
+#myfooter .fa-google-plus:focus{
     color:red;
 }
 
-.myfooter .fa-twitter:hover{
+#myfooter .fa-twitter:hover{
     color: #00aced;
 }
-.myfooter .fa-twitter:focus{
+#myfooter .fa-twitter:focus{
     color:#00aced;
 }
 
-.myfooter .fa-medium:hover{
+#myfooter .fa-medium:hover{
     color:#90EE90;
 }
 
-.myfooter .fa-instagram:hover{
+#myfooter .fa-instagram:hover{
     color:#fb3958;
 }
-.myfooter .fa-instagram:focus{
+#myfooter .fa-instagram:focus{
     color:#fb3958;
 }
 
-.myfooter .fa-pinterest:hover{
+#myfooter .fa-pinterest:hover{
     color:#cb2027;
 }
-.myfooter .fa-pinterest:focus{
+#myfooter .fa-pinterest:focus{
     color:#cb2027;
 }
 
-.myfooter .fa-linkedin:hover{
+#myfooter .fa-linkedin:hover{
     color:#007bb5;
 }
-.myfooter .fa-linkedin:focus{
+#myfooter .fa-linkedin:focus{
     color:#007bb5;
 }
 
-.myfooter .fa-behance-square:hover{
+#myfooter .fa-behance-square:hover{
     color:#1769ff;
 }
-.myfooter .fa-behance-square:focus{
+#myfooter .fa-behance-square:focus{
     color:#1769ff;
 }
 
-.myfooter .fa-snapchat:hover{
+#myfooter .fa-snapchat:hover{
     color:#fffc00;
 }
-.myfooter .fa-snapchat:focus{
+#myfooter .fa-snapchat:focus{
     color:#fffc00;
 }
 
-.myfooter .fa-youtube:hover{
+#myfooter .fa-youtube:hover{
     color:#ff0000;
 }
-.myfooter .fa-youtube:focus{
+#myfooter .fa-youtube:focus{
     color:#ff0000;
 }
